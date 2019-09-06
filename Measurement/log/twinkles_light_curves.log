@@ -1,0 +1,4 @@
+[NbConvertApp] Converting notebook twinkles_light_curves.ipynb to notebook
+[NbConvertApp] Executing notebook with kernel: lsst
+CameraMapper INFO: Loading exposure registry from /project/shared/data/Twinkles_subset/input_data_v2/registry.sqlite3
+[NbConvertApp] Writing 884722 bytes to twinkles_light_curves.nbconvert.ipynb

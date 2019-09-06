@@ -1,0 +1,6 @@
+[NbConvertApp] Converting notebook Footprints.ipynb to notebook
+[NbConvertApp] Executing notebook with kernel: lsst
+CameraMapper INFO: Loading exposure registry from /project/shared/data/Twinkles_subset/input_data_v2/registry.sqlite3
+sourceDetection INFO: Detected 1158 positive peaks in 1060 footprints and 1 negative peaks in 1 footprints to 10 sigma
+sourceDetection INFO: Resubtracting the background after object detection
+[NbConvertApp] Writing 9184652 bytes to Footprints.nbconvert.ipynb

@@ -1,0 +1,23 @@
+[NbConvertApp] Converting notebook UndersampledMoments.ipynb to notebook
+[NbConvertApp] Executing notebook with kernel: lsst
+characterizeImage WARN: Source catalog detected and measured with placeholder or default PSF
+characterizeImage.detection INFO: Detected 1024 positive peaks in 1024 footprints and 0 negative peaks in 0 footprints to 50 sigma
+characterizeImage.detection INFO: Resubtracting the background after object detection
+characterizeImage.measurement INFO: Measuring 1024 sources (1024 parents, 0 children) 
+characterizeImage INFO: iter 1; PSF sigma=0.29, dimensions=(11, 11); median background=-0.00
+characterizeImage.measurement INFO: Measuring 1024 sources (1024 parents, 0 children) 
+calibrate.detection INFO: Detected 1027 positive peaks in 1027 footprints and 2 negative peaks in 2 footprints to 5 sigma
+calibrate.detection INFO: Resubtracting the background after object detection
+calibrate.measurement INFO: Measuring 1027 sources (1027 parents, 0 children) 
+calibrate INFO: Copying flags from icSourceCat to sourceCat for 1024 sources
+characterizeImage WARN: Source catalog detected and measured with placeholder or default PSF
+characterizeImage.detection INFO: Detected 174 positive peaks in 100 footprints and 0 negative peaks in 0 footprints to 50 sigma
+characterizeImage.detection INFO: Resubtracting the background after object detection
+characterizeImage.measurement INFO: Measuring 100 sources (100 parents, 0 children) 
+characterizeImage INFO: iter 1; PSF sigma=0.29, dimensions=(11, 11); median background=0.00
+characterizeImage.measurement INFO: Measuring 100 sources (100 parents, 0 children) 
+calibrate.detection INFO: Detected 281 positive peaks in 103 footprints and 0 negative peaks in 0 footprints to 5 sigma
+calibrate.detection INFO: Resubtracting the background after object detection
+calibrate.measurement INFO: Measuring 103 sources (103 parents, 0 children) 
+calibrate INFO: Copying flags from icSourceCat to sourceCat for 99 sources
+[NbConvertApp] Writing 3113425 bytes to UndersampledMoments.nbconvert.ipynb
